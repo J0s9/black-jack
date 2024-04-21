@@ -1,2 +1,2 @@
 # black-jack
-Juego de cartas de bllack-jack
+Juego de cartas de black-jack
